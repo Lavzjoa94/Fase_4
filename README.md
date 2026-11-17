@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Lavz94
-=======
-# Fase_4
->>>>>>> 2f422be2abcb7d64ffa0c218b97a0805550e078b
+Fase_4
+Sistema Integral de Gestión de Clientes, Servicios y Reservas para la empresa Software FJ.
+
+Proyecto desarrollado para la Fase 4 de Programación Orientada a Objetos.
